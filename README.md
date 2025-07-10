@@ -4,11 +4,7 @@ Welcome to my animated squares loader project—built using pure HTML and CSS! I
 
 ## 🚀 Demo
 
-Check it out live here: [https://yourusername.github.io/your-repo-name](https://yourusername.github.io/your-repo-name)  
-*(Replace with your actual GitHub Pages URL)*
-
-## 📁 Project Structure
-
+Check it out live here: [https://DGilpin3.github.io/spiral-loader](https://DGilpin3.github.io/spiral-loader)  
 
 ## 🎯 Features
 
@@ -26,11 +22,3 @@ Check it out live here: [https://yourusername.github.io/your-repo-name](https://
 ## 📦 Usage
 
 Simply clone or download the repo and open `index.html` in your browser—or deploy it with GitHub Pages.
-
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-
-You can copy this into a new file called `README.md` in your project root, commit it, and push to GitHub.
-
-Let me know if you’d like to add screenshots, tweak the tone, or drop in credits for the animation’s inspiration!
